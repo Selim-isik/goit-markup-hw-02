@@ -114,34 +114,37 @@ button:focus {
 }
 
 .team{
-    background-color: #f4f4fd;
+    background-color: #f4f4fd
 }
-.team-tittle {
-  font-size: 36px;
-  letter-spacing: 0.02em;
-  line-height: 1.11;
-  text-align: center;
-  text-transform: capitalize;
-  color: #2e2f42
+
+.team-tittle{
+    text-decoration: underline;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+    font-size: 36px
 }
 
 .team-item{
-    background-color: #FFFFFF
+    background-color: #ffffff;
 }
+
 .team-name{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-
 }
 
-.team-role{
+.team-role {
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    font-size: 16px;
+
 }
 .our-tittle {
   font-size: 36px;
