@@ -51,7 +51,7 @@ body {
   font-weight: 700;
   font-size: 56px;
   color: white;
-  line-height: 1.5em;
+  line-height: 1.07em;
   text-align: center;
   letter-spacing: 0.02em;
 }
@@ -69,18 +69,16 @@ body {
   background-color: #2e2f42;
 }
 
-.button-tittle:hover,
-.button-tittle:focus {
-  background-color: #404bbf;
-  color: #ffffff;
-  cursor: pointer;
+.button:hover,button:focus {
+    background-color:#404bbf;
+    cursor: pointer;
 }
+
 
 .studio-tittle {
   font-size: 36px;
   color: black;
 }
-
 .studio-item {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
