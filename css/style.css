@@ -182,11 +182,10 @@ button:focus {
   line-height: 1.17;
   font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
-  text-decoration: none;
 }
 
 .logo-2 {
-    color: #ffffff;
+  color: #f4f4fd;
 }
 
 .footer-text {
