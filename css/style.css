@@ -54,8 +54,14 @@ body {
   color: #434455;
   letter-spacing: 0.02em;
 }
-.address-link:hover,
+.address-link:hover {
+  color: #404bbf;
+}
+
 .address-link:active {
+  color: #404bbf;
+}
+.address-link:focus {
   color: #404bbf;
 }
 
